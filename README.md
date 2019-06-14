@@ -4,7 +4,7 @@ using HTC smart contract api to develope our own applications
 
 ## team members
 
--r07944023 廖彥智
+- r07944023 廖彥智
 
 ## functions
 
